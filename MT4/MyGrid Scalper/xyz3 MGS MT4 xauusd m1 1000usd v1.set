@@ -1,0 +1,46 @@
+TradeSetup======================== Trade Setup =======================
+Lots=0.03000000
+Lots,F=0
+Lots,1=0.01000000
+Lots,2=0.00000000
+Lots,3=0.00000000
+TPSetupAuto=--------------- TP  Setup ---------------
+TP_pips=250
+TP_pips,F=0
+TP_pips,1=128
+TP_pips,2=0
+TP_pips,3=0
+AutoTP=---- Auto TP Available on Ultimate Version ----
+MaxOpenOrders=27
+MaxOpenOrders,F=0
+MaxOpenOrders,1=12
+MaxOpenOrders,2=0
+MaxOpenOrders,3=0
+AutoMaxOpenOrder=---- Auto Max Open Orders Available on Ultimate Version ----
+SEMA======================== MyGrid Scalper Ultimate EMA Setup =======================
+EMASetup=---- EMA SETUP  Available on Ultimate Version ----
+SDD======================== Draw Down Setup =======================
+DDMoney=---- By Money ----
+DDM2=---- Available on Ultimate Version ----
+DDPercentOfEquity=---- By Percentage ----
+DDM3=---- Available on Ultimate Version ----
+SMargin======================== Margin Filter Setup =======================
+amc=----Available Margin checks----
+DDM4=---- Available on Ultimate Version ----
+DDM5=EQUITY/MARGIN Check And Filter
+MinimumMargin=Minimum % Margin Level-- Available on Ultimate Version --
+TSF========================   Trading Session Filter  =======================
+sm1=---- Available on Ultimate Version ----
+TSF2=
+TSF31=
+TSF32=
+TSF41=
+TSF42=
+Dashboard============= Dashboard Setup ============
+DashboardLocation=3
+DashboardLocation,F=0
+DashboardLocation,1=0
+DashboardLocation,2=0
+DashboardLocation,3=0
+Box_Background_Color=0
+CommColor=55295
